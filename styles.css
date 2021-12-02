@@ -4,7 +4,14 @@ body {
 }
 
 .card {
-  margin: 484px;
+  position: absolute;
+  width: 448px;
+  height: 680px;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
   background-color: white;
   border-radius: 16px;
 }
